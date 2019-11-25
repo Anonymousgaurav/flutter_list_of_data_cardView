@@ -1,6 +1,6 @@
 # flutter_list_of_data
 
-Showing Dynamic List Of Data In Flutter
+Showing List Of Data In Flutter In Cardview & Delete The Data Using Delete Function
 
 ## Getting Started
 
